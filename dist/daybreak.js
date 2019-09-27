@@ -1,4 +1,7 @@
-:root {
+// THIS FILE IS GENERATED DO NOT MODIFY IT
+import { css } from '@emotion/core'
+
+export default css`
   --fonts-h1-family: Verdana;
   --fonts-h1-size: 3rem;
   --fonts-h1-top: .5rem;
@@ -26,5 +29,5 @@
   --colors-overlay-background-primary: #AAA;
   --colors-overlay-background-secondary: #BBB;
   --colors-overlay-background-fancy: #CCC;
-  --colors-overlay-background-special: #DDD; 
-}
+  --colors-overlay-background-special: #DDD;
+`

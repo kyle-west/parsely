@@ -1,6 +1,8 @@
-import 'theme-constants.css'
+// THIS FILE IS GENERATED DO NOT MODIFY IT
+export { default as daybreak } from './daybreak'
+export { default as nightfall } from './nightfall'
 
-export default {
+export const theme = {
   "fonts": {
     "h1": {
       "family": "var(--fonts-h1-family)",

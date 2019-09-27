@@ -1,0 +1,52 @@
+{
+  "fonts": {
+    "h1": {
+      "family": "Verdana",
+      "size": "3rem",
+      "top": ".5rem",
+      "bottom": ".5rem"
+    },
+    "h2": {
+      "family": "Verdana",
+      "size": "2rem",
+      "top": ".5rem",
+      "bottom": ".5rem"
+    },
+    "h3": {
+      "family": "Verdana",
+      "size": "1.5rem",
+      "top": ".5rem",
+      "bottom": ".5rem"
+    }
+  },
+  "colors": {
+    "button": {
+      "text": {
+        "primary": "#AAA",
+        "secondary": "#BBB",
+        "fancy": "#CCC",
+        "special": "#DDD"
+      },
+      "background": {
+        "primary": "#000",
+        "secondary": "#111",
+        "fancy": "#222",
+        "special": "#333"
+      }
+    },
+    "overlay": {
+      "text": {
+        "primary": "#000",
+        "secondary": "#111",
+        "fancy": "#222",
+        "special": "#333"
+      },
+      "background": {
+        "primary": "#AAA",
+        "secondary": "#BBB",
+        "fancy": "#CCC",
+        "special": "#DDD"
+      }
+    }
+  }
+}
